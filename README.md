@@ -1,1 +1,1 @@
-# Harjutus-1
+# Harjutus
